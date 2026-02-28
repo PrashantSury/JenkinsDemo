@@ -86,7 +86,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>Jenkins CI/CD Demo</finalName>
+		<finalName>JenkinsCICDDemo</finalName>
 	</build>
 
 </project>
