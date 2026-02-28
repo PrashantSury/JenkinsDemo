@@ -12,4 +12,8 @@ public class JenkinsDemoController {
     public String welcomeJenkins(){
         return "Welcome to Jenkins CI/CD flow Demo";
     }
+    @GetMapping("/ollama")
+    public String addOllama(){
+        return "Run with Local Ollama";
+    }
 }
